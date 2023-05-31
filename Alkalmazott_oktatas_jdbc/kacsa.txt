@@ -1,0 +1,9 @@
+	|OktID	|		|OktNev	|		|OktSzakterület	|		|OktEmail	|	
+	|1	|		|Orbán Sándor	|		|finance	|		|karolya@email.com	|	
+	|2	|		|Kocsis Emese	|		|accountancy	|		|kocsis@email.com	|	
+	|3	|		|Takács György	|		|hr	|		|takacs@email.com	|	
+	|4	|		|Pataki Ernő	|		|marketing	|		|pataki@email.com	|	
+	|5	|		|Nagy Emese	|		|penzugy	|		|nagyemese@email.com	|	
+	|6	|		|Kis Lajos	|		|penzugy	|		|lajos@gmail.com	|	
+	|7	|		|Nagy Eszter	|		|vallalatvezetes	|		|nagyeszter@nomail.com	|	
+	|8	|		|Lakatos Zoltan	|		|penzugy	|		|lakatosz@gmail.com	|	
