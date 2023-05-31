@@ -1,0 +1,15 @@
+Készítsen Java nyelven egy kliens oldali nyilvántartó alkalmazást relációs adatbázis
+kezelésére. A kapcsolódó adatbázis séma az Adatbázis I tárgy keretében kidolgozott sémával
+egyezik meg. Az adatbázis mérete min 5 tábla legyen kapcsolatokkal. A feladat a kliens
+oldali JDBC alapú Java program megtervezése és megvalósítása.
+A feladat kötelező lépései:
+- bejelentkezési modul
+- adatok (új rekordok) felvitele (min. 2 táblára)
+- adatok lementése helyi TXT állományba
+- adatok lekérdezése (szűrés egy és több mező szerint, egy és kapcsolt táblákra)
+- A JDBC-ben megvalósítandó elemek:
+- normál parancsok használata
+- paraméterezett kétfázisú parancsok használata
+- kurzor kezelés
+- metaadatok lekérdezése
+- tranzakció kezelés
